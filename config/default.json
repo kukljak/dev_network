@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://akukli:akukli@devnetwork.pgf3j.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret": "secretToken",
+    "githubClientID": "1fc7ad62ccc425ad4d50",
+    "githubSecret" : "684f62cb7bf4988249d8a6ef47c730f3545dd8b0"
+}
